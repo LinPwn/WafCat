@@ -12,6 +12,7 @@
    - 打开 `WafCat.py` 文件
    - 修改 `IP` 字段为您的雷池Waf服务器IP地址
    - 修改 `Authorization` 字段为您的认证凭证
+   - 修改 `TOTAL_PAGES` 字段为您的日志页数
 
 2. **运行程序**
    ```bash
